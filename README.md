@@ -1,7 +1,7 @@
 # Pro-Lab
 
 ```
-Dari kami untuk kalian
+Dari kami untuk kalian pelajari, jangan diplagiarisasi
 ```
 <table>
     <thead>
