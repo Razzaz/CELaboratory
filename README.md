@@ -20,7 +20,7 @@ Kami tidak pernah berubah, kalian saja yang tidak pernah singgah
     <tbody>
         <tr>
             <td>01.</td>
-            <td>Aplikasi Kesehatan Sederhana</td>
+            <td>MediCare</td>
             <td>Rafid</td>
             <td>Hans</td>
         </tr>
