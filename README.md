@@ -36,12 +36,6 @@ Kami tidak pernah berubah, kalian saja yang tidak pernah singgah
             <td>Deco</td>
             <td>Hilman</td>
         </tr>
-         <tr>
-            <td>05.</td>
-            <td>Text Based Adventure</td>
-            <td>Galih</td>
-            <td>Ican</td>
-        </tr>
         <tr>
             <td>05.</td>
             <td>Text Based Adventure</td>
