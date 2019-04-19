@@ -3,7 +3,6 @@
 ```
 Kami tidak pernah berubah, kalian saja yang tidak pernah singgah
 ```
-<p align="justify">
 <table>
     <thead>
         <tr>
@@ -27,4 +26,3 @@ Kami tidak pernah berubah, kalian saja yang tidak pernah singgah
         </tr>
     </tbody>
 </table>
-</p>
